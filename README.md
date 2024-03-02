@@ -6,7 +6,7 @@ BudgetApp is a simple budget management application built with Python and MongoD
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/BudgetApp.git
+    git clone [https://github.com/soummyaanon/budget_tracker]
     ```
 2. Navigate to the project directory:
     ```bash
